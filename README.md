@@ -4,3 +4,4 @@ Test git
 
 # add a line in local
 After the gitconfig
+other line.
